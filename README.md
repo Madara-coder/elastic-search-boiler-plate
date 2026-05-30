@@ -583,3 +583,4 @@ The `ElasticsearchService::buildQuery()` method translates a `SearchQueryDTO` in
 ## License
 
 MIT
+Built by Debrath Sharma
